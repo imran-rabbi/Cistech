@@ -1,0 +1,11 @@
+{
+  "name": "automation_cistech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "Codegen": "npm run cypress run -- -b chrome --headed --spec \"cypress/e2e/codegenerator.cy.js\""
+  },
+  "author": "",
+  "license": "ISC"
+}

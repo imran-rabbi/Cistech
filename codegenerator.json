@@ -1,0 +1,22 @@
+{
+  "url": "https://testapp.cisstaging.com/",
+  "cardname":"Emran Hossain Rabbi's Card",
+  "firstname":"Emran",
+  "lastname":"Rabbi",
+  "image":"Emran_Valid_Photo.jpg",
+  "phonenumber":"01724527849",
+  "altphnnumber":"+8801784644624",
+  "personalwebsite":"emran.bd",
+  "companyname":"Nilavo Technologies",
+  "profession": "Engineer",
+  "summary": "Nilavo Technologies develops enterprise software for its U.S.A. based partner companies. Nilavo has developed and enhanced mission critical applications that are actively used by hundreds of companies in the U.S. and Europe.",
+  "street":"11",
+  "postalcode":"1229",
+  "city":"Dhaka",
+  "state":"Dhaka",
+  "country":"Bangladesh",
+  "email": "imran123@gmail.com",
+  "facebook" : "www.facebook.com/profile.php?id=100093559830431",
+  "body": "Fixtures are a great way to mock data for responses to routes"
+  
+}
